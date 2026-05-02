@@ -279,7 +279,7 @@ def print_banner():
         print(colored(line, "yellow", attrs=["bold"]))
     for line in lines:
         print(colored(line, 'white', attrs=["bold"]))
-    print(colored("Copyright (c) 2023 By @Richard. All rights reserved.", "white", attrs=['bold']))
+    print(colored("Copyright (c) 2023 By github.com/ramizz1. All rights reserved.", "white", attrs=['bold']))
     print(colored("ALL USED TOOLS:", "white", attrs=['bold']))
 
     
