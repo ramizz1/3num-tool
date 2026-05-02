@@ -8,7 +8,7 @@
 This tool is designed for authorized security testing purposes only. Unauthorized use is illegal. Ensure you have the right to perform any enumeration activities.
 
 ## Installation
-[sudo git clone https://github.com/RichardAlmeyda/3num-tool.git](https://github.com/ramizz1/3num-tool.git)
+sudo git clone https://github.com/RichardAlmeyda/3num-tool.git
 
 To install the required dependencies, use the following command:
 
